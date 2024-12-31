@@ -1,2 +1,25 @@
-# project-name-daily-habit-tracker
-Project Name: "Daily Habit Tracker"Project Description: The Daily Habit Tracker is a web application aimed at helping users improve their productivity and well-being by effectively keeping track of their daily habits. Features: 1. User Account Creation: Users should be able to create a private accou
+# Daily Habit Tracker
+
+## Project Overview
+The Daily Habit Tracker is a web application designed to help users improve their productivity and well-being by tracking their daily habits.
+
+## Features
+- User Account Creation
+- Custom Habit Creation
+- Daily Reminders
+
+## Setup Instructions
+1. Clone the repository
+```
+git clone https://example.com/daily-habit-tracker.git
+```
+2. Install dependencies
+```
+cd daily-habit-tracker
+npm install
+```
+3. Start the application
+```
+npm start
+```
+Visit `http://localhost:3000` to view the application.
